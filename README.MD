@@ -1,10 +1,9 @@
-<a href="https://youtu.be/5RswOZHkvKs
-" target="_blank"><img src="https://unsplash.com/photos/QJ1j4HOdNtI" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Video](http://img.youtu.be/5RswOZHkvKs/0.jpg)](https://youtu.be/5RswOZHkvKs)
 
 ## Salud Sexual.
 
 Proceso ligado al desarrollo humano; es decir, comienza desde el nacimiento y se desarrolla durante toda la vida; que permite a una persona relacionarse, sentir y expresar afecto, formar pareja, experimentar placer y ejercer libremente su identidad sexual; contempla dimensiones comunicativas, afectivas, placenteras y reproductivas que se reflejan en sus conocimientos, actitudes y prácticas frente a las diferentes experiencias de la vida.
+
 ### La salud sexual y reproductiva.
 Es un estado de bienestar físico mental y social y no mera ausencia de enfermedad que se convierte en un proceso social de construcción de valores y de comportamientos individuales, familiares y comunitarios; de creación de una nueva cultura en el cuidado de la salud y del desarrollo institucional, acorde con el desarrollo humano y con la corresponsabilidad social de los individuos, la comunidad y las instituciones y al conjunto de métodos, técnicas y servicios que contribuyen a la salud, al bienestar reproductivo y a evitar o resolver los problemas relacionados. 
 ### Los derechos sexuales y reproductivos.
@@ -109,8 +108,6 @@ Se usa cuando una mujer ha tenido una relación sexual en las 72 horas previas, 
 
 ### ¿Qué tipo de método para el control de la natalidad es apropiado para mí? 
 El tipo de método para el control de la natalidad que usted escoge depende de sus necesidades. Algunas personas solamente necesitan prevenir el embarazo. Otras personas también pueden querer protegerse a sí mismas o a sus parejas de enfermedades que pueden transmitirse al tener sexo; por ello, se aconseja que cada pareja escoja el método que más le convenga.
-
-
 ## Enfermedades de transmisión sexual.
 
 Las enfermedades de transmisión sexual afectan cada día a más de 1 millón de personas, la incidencia de personas cada vez más jóvenes que se contagian por falta de información es un hecho preocupante y de interés para la salud pública. Existen diferentes métodos de prevención dependiente de sus diferentes vías de transmisión y los métodos de barrera, son los más efectivos de los cuales es cada vez menos frecuente su uso frente a métodos hormonales, utilizando un método anticonceptivo con la única finalidad de evitar un embarazo, dejando de lado la importancia de prevenir las diferentes ETS. 

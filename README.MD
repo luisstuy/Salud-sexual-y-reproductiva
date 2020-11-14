@@ -1,3 +1,7 @@
+<a href="https://youtu.be/5RswOZHkvKs
+" target="_blank"><img src="https://unsplash.com/photos/QJ1j4HOdNtI" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## Salud Sexual.
 
 Proceso ligado al desarrollo humano; es decir, comienza desde el nacimiento y se desarrolla durante toda la vida; que permite a una persona relacionarse, sentir y expresar afecto, formar pareja, experimentar placer y ejercer libremente su identidad sexual; contempla dimensiones comunicativas, afectivas, placenteras y reproductivas que se reflejan en sus conocimientos, actitudes y prácticas frente a las diferentes experiencias de la vida.
@@ -32,7 +36,7 @@ Cuando alcanza la pubertad, sus ovarios maduran los óvulos y liberan uno cada m
 El período menstrual, que se cuenta desde el primer día de un período hasta el primer día del siguiente, no es el mismo para todas las mujeres. El flujo menstrual puede ocurrir cada 21 a 35 días y durar de 2 a 7 días. Durante los primeros años después del comienzo de la menstruación, los ciclos largos son comunes. Sin embargo, los ciclos menstruales tienden a acortarse y a volverse más regulares a medida que envejeces. Tu ciclo menstrual puede ser regular (más o menos la misma duración cada mes) o algo irregular, y tu período puede ser ligero o pesado, doloroso o indoloro, largo o corto, y aun así ser considerado normal. 
 
 
-## PLANIFICACIÓN FAMILIAR.
+## Planificación familiar.
 
 Es un proceso en el que la mujer y su pareja deciden cuantos hijos quieren tener y cuando quieren tenerlos. Se inicia cuando la mujer empieza a tener relaciones sexuales y permanece durante toda su edad reproductiva (hasta la menopausia), sin renunciar a una actividad sexual normal. Es considerada un derecho tanto para hombres, como para mujeres del que tenemos que hacer uso. Esto forma parte de la construcción de nuestra dignidad como personas (23).
 
@@ -107,20 +111,20 @@ Se usa cuando una mujer ha tenido una relación sexual en las 72 horas previas, 
 El tipo de método para el control de la natalidad que usted escoge depende de sus necesidades. Algunas personas solamente necesitan prevenir el embarazo. Otras personas también pueden querer protegerse a sí mismas o a sus parejas de enfermedades que pueden transmitirse al tener sexo; por ello, se aconseja que cada pareja escoja el método que más le convenga.
 
 
-## ENFERMEDADES DE TRANSMISIÓN SEXUAL
+## Enfermedades de transmisión sexual.
 
 Las enfermedades de transmisión sexual afectan cada día a más de 1 millón de personas, la incidencia de personas cada vez más jóvenes que se contagian por falta de información es un hecho preocupante y de interés para la salud pública. Existen diferentes métodos de prevención dependiente de sus diferentes vías de transmisión y los métodos de barrera, son los más efectivos de los cuales es cada vez menos frecuente su uso frente a métodos hormonales, utilizando un método anticonceptivo con la única finalidad de evitar un embarazo, dejando de lado la importancia de prevenir las diferentes ETS. 
 
 A pesar de que los adolescentes representen el 25% de la población sexualmente activa, son los más afectados por las ETS, ya que representan casi el 50% de todos los casos de ETS adquiridas recientemente. El consumo de alcohol y otras drogas, la promiscuidad y el uso inapropiado del preservativo entre otras hace que sean más susceptibles. 
-##### ¿Que son?
-Grupo de enfermedades que se transmite de persona a persona durante el acto sexual, y los juegos sexuales. 
+#### ¿Que son?
+- Grupo de enfermedades que se transmite de persona a persona durante el acto sexual, y los juegos sexuales. 
 También se pueden transmitir por medios no sexuales como por ejemplo transfusiones de sangre, trasplantes de órganos y de madre a hijo durante el embarazo o el parto (transmisión vertical), aunque estas últimas son muy poco frecuentes.
 
-##### Causas
+#### Causas
 - Parasitarias
 - Bacterianas
 - Virales
-##### Tipos
+#### Tipos
 - Clamidia
 - Herpes genital
 - VIH/SIDA (virus de inmunodeficiencia adquirida.)
@@ -128,13 +132,13 @@ También se pueden transmitir por medios no sexuales como por ejemplo transfusio
 - Sífilis
 - Tricomona
 - Ladilla 
-##### Contagio 
-A partir de persona infectadas y se produce un contacto directo de persona a persona durante la relación sexual.
-##### Prevención
+#### Contagio 
+- A partir de persona infectadas y se produce un contacto directo de persona a persona durante la relación sexual.
+#### Prevención
 - Educación sexual sanitaria
 - Promoción de sexo seguro
 - Inmunización para ETS para las que se dispone de vacunas
-##### Signos y síntomas
+#### Signos y síntomas
 - Flujo inusual por pene o vagina
 - Herida o verrugas en el área genital
 - Micción dolorosa o frecuente

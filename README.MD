@@ -24,7 +24,7 @@ Se refiere a la difusión de información sexual generada a través de un proces
 **El derecho a la educación sexual comprensiva.**
 Se refiere a la enseñanza que dura toda la vida, desde el nacimiento y debería involucrar a todas las instituciones sociales. 
 **El derecho al cuidado de la salud sexual.** 
-**El cuidado de la salud sexual debe estar disponible para la prevención y el tratamiento de todos los problemas, preocupaciones y desórdenes sexuales. (20)
+**El cuidado de la salud sexual debe estar disponible para la prevención y el tratamiento de todos los problemas, preocupaciones y desórdenes sexuales.
 
 ## Período Menstrual
 La mujer posee órganos sexuales externos e internos; los externos lo constituyen la vulva, clítoris, labios menores, labios mayores y entrada del orificio vaginal, los internos los constituyen vagina, útero, ovarios y trompas de Falopio. Los ovarios son los órganos que contienes los óvulos, y estos junto con el espermatozoide permiten la fecundación (21). 
@@ -45,13 +45,17 @@ La presunción de fertilidad está dada porque la ovulación ocurre entre el dí
 El ritmo pierde eficacia cuando la mujer tiene ciclos menstruales irregulares. En ciclos regulares de 28 días, se deben evitar las relaciones sexuales entre el día 9 y 17 del ciclo. Se recomienda llevar un registro de cada ciclo menstrual durante, por lo menos 6 meses con el fin de conocer la regularidad o irregularidad del mismo y saber que tan seguro será usar el método del ritmo. Es importante recordar que el ciclo comienza desde el primer día del sangrado, siendo este por lo tanto, el día 1 del ciclo menstrual. 
 Moco cervical
 #### El método del moco cervical.
- Se basa en la observación de los cambios que suceden en el moco cervical durante el ciclo menstrual. Después de la menstruación comienza un periodo seco que dura 2 a 3 días. Luego aparece un moco cervical blancuzco y pegajoso que se va haciendo cada vez más elástico y transparente.
+Se basa en la observación de los cambios que suceden en el moco cervical durante el ciclo menstrual. Después de la menstruación comienza un periodo seco que dura 2 a 3 días. Luego aparece un moco cervical blancuzco y pegajoso que se va haciendo cada vez más elástico y transparente.
 Debe tocar la entrada de la vagina con un pequeño trozo de papel higiénico o con sus dedos y coger un poquito de la mucosidad. Luego deje caer la mucosidad dentro de un vaso con agua fría. Si la mucosidad se disuelve en el agua, no es moco. Si existiera moco, evite tener relaciones sexuales hasta 3 días después que desaparezca el moco cervical (24).
 #### Temperatura basal. 
 Consiste en que la mujer debe medirse la temperatura vaginal, cada mañana y confeccionar una gráfica. Alrededor de la mitad de su ciclo verá que la temperatura se eleva, es el momento más peligroso, pero luego de tres días ya no hay peligro. Es decir, puede tener relaciones sexuales a partir de la tercera noche en que ha comprobado un aumento de su temperatura corporal (menos de 1 grado centígrado) hasta la próxima menstruación.
 La desventaja principal de usar solamente este método es que muchos factores pueden influir su temperatura basal como las enfermedades, la falta de sueño, el uso de drogas o el alcohol.
 #### Lactancia.
-La lactancia produce la supresión de la ovulación ocasionada por cambios hormonales, producto del amamantamiento, siendo la principal modificación el incremento de la prolactina. La mujer debe cumplir 3 condiciones: 1) Lactancia exclusiva (amamantar 10 a 12 veces durante el día y la noche, con un intervalo no mayor de 4 horas durante el día y de 6 horas durante la noche); 2) que la mujer tenga amenorrea (loquios hasta los 56 días posparto es considerado normal), y 3) dentro de los 6 meses posparto.
+La lactancia produce la supresión de la ovulación ocasionada por cambios hormonales, producto del amamantamiento, siendo la principal modificación el incremento de la prolactina. La mujer debe cumplir 3 condiciones: 
+1. Lactancia exclusiva (amamantar 10 a 12 veces durante el día y la noche, con un intervalo no mayor de 4 horas durante el día y de 6 horas durante la noche); 
+2. que la mujer tenga amenorrea (loquios hasta los 56 días posparto es considerado normal).
+3. Amamantar dentro de los 6 meses posparto.
+
 Si una mujer está amamantando y su bebé tiene más de 6 meses, (la lactancia materna ya dejó de ser exclusiva) o la mujer comenzó a menstruar debe buscar otro método anticonceptivo para evitar el embarazo.
 
 ### De Barrera
@@ -113,31 +117,31 @@ Grupo de enfermedades que se transmite de persona a persona durante el acto sexu
 También se pueden transmitir por medios no sexuales como por ejemplo transfusiones de sangre, trasplantes de órganos y de madre a hijo durante el embarazo o el parto (transmisión vertical), aunque estas últimas son muy poco frecuentes.
 
 ##### Causas
-    • Parasitarias
-    • Bacterianas
-    • Virales
+- Parasitarias
+- Bacterianas
+- Virales
 ##### Tipos
-    • Clamidia
-    • Herpes genital
-    • VIH/SIDA (virus de inmunodeficiencia adquirida.)
-    • VPH (Virus del papiloma humano.)
-    • Sífilis
-    • Tricomona
-    • Ladilla 
+- Clamidia
+- Herpes genital
+- VIH/SIDA (virus de inmunodeficiencia adquirida.)
+- VPH (Virus del papiloma humano.)
+- Sífilis
+- Tricomona
+- Ladilla 
 ##### Contagio 
 A partir de persona infectadas y se produce un contacto directo de persona a persona durante la relación sexual.
 ##### Prevención
-    • Educación sexual sanitaria
-    • Promoción de sexo seguro
-    • Inmunización para ETS para las que se dispone de vacunas
+- Educación sexual sanitaria
+- Promoción de sexo seguro
+- Inmunización para ETS para las que se dispone de vacunas
 ##### Signos y síntomas
-    • Flujo inusual por pene o vagina
-    • Herida o verrugas en el área genital
-    • Micción dolorosa o frecuente
-    • Picazón o enrojecimiento en área genital
-    • Ampollas o heridas en o alrededor de la boca.
-    • Olor vaginal o sangrado anal.
-    • Dolor abdominal o fiebre.
+- Flujo inusual por pene o vagina
+- Herida o verrugas en el área genital
+- Micción dolorosa o frecuente
+- Picazón o enrojecimiento en área genital
+- Ampollas o heridas en o alrededor de la boca.
+- Olor vaginal o sangrado anal.
+- Dolor abdominal o fiebre.
 
 ### Gonorrea.
 Enfermedad causada por la bacteria Neisseria gonorrhoeae produciendo infecciones en genitales, recto y garganta. La infección causada por esta bacteria afecta de forma diferente a hombre y a mujeres. Además, puede ser asintomática o producir cuadros clínicos variados como uretritis, proctitis, vaginitis y enfermedad inflamatoria pélvica puede ocurrir trasmisión materno-infantil durante el parto. • 

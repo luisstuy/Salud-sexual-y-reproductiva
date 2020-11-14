@@ -1,11 +1,15 @@
-[![Video](http://img.youtu.be/5RswOZHkvKs/0.jpg)](https://youtu.be/5RswOZHkvKs)
-
 ## Salud Sexual.
+[![Video Motivacional](https://www.youtube.com/watch?v=5RswOZHkvKs&feature=youtu.be)](https://youtu.be/5RswOZHkvKs)
+
+[Haga click para dirigirse a la clase.](https://classroom.google.com/c/MjAwNjk0MTI3ODQz?cjc=3htnato)
+
 
 Proceso ligado al desarrollo humano; es decir, comienza desde el nacimiento y se desarrolla durante toda la vida; que permite a una persona relacionarse, sentir y expresar afecto, formar pareja, experimentar placer y ejercer libremente su identidad sexual; contempla dimensiones comunicativas, afectivas, placenteras y reproductivas que se reflejan en sus conocimientos, actitudes y prácticas frente a las diferentes experiencias de la vida.
 
 ### La salud sexual y reproductiva.
 Es un estado de bienestar físico mental y social y no mera ausencia de enfermedad que se convierte en un proceso social de construcción de valores y de comportamientos individuales, familiares y comunitarios; de creación de una nueva cultura en el cuidado de la salud y del desarrollo institucional, acorde con el desarrollo humano y con la corresponsabilidad social de los individuos, la comunidad y las instituciones y al conjunto de métodos, técnicas y servicios que contribuyen a la salud, al bienestar reproductivo y a evitar o resolver los problemas relacionados. 
+
+
 ### Los derechos sexuales y reproductivos.
 Los derechos sexuales son derechos humanos universales que se basan en la libertad, la dignidad e igualdad inherentes a todos los seres humanos y que se encuentran hasta por encima del estado.
 **El derecho a la autonomía, integridad y seguridad sexual**
@@ -30,7 +34,7 @@ Se refiere a la enseñanza que dura toda la vida, desde el nacimiento y debería
 **El cuidado de la salud sexual debe estar disponible para la prevención y el tratamiento de todos los problemas, preocupaciones y desórdenes sexuales.
 
 ## Período Menstrual
-La mujer posee órganos sexuales externos e internos; los externos lo constituyen la vulva, clítoris, labios menores, labios mayores y entrada del orificio vaginal, los internos los constituyen vagina, útero, ovarios y trompas de Falopio. Los ovarios son los órganos que contienes los óvulos, y estos junto con el espermatozoide permiten la fecundación (21). 
+La mujer posee órganos sexuales externos e internos; los externos lo constituyen la vulva, clítoris, labios menores, labios mayores y entrada del orificio vaginal, los internos los constituyen vagina, útero, ovarios y trompas de Falopio. Los ovarios son los órganos que contienes los óvulos, y estos junto con el espermatozoide permiten la fecundación. 
 Cuando alcanza la pubertad, sus ovarios maduran los óvulos y liberan uno cada mes. Todo este proceso es regulado por la glándula pituitaria que se encuentra en su cerebro, la misma libera mensajeros químicos, llamados gonadotropinas, que "le dicen" a sus ovarios que liberen un óvulo maduro una vez al mes. El óvulo se rompe mientras viaja hacia el útero. El pequeño óvulo, junto con la gruesa capa de sangre (llamada endometrio) que se forma en su útero entre sus períodos, sale de su cuerpo a través de su vagina. Este fluido, que sale como sangre, es su período menstrual. El proceso completo es llamado menstruación.
 El período menstrual, que se cuenta desde el primer día de un período hasta el primer día del siguiente, no es el mismo para todas las mujeres. El flujo menstrual puede ocurrir cada 21 a 35 días y durar de 2 a 7 días. Durante los primeros años después del comienzo de la menstruación, los ciclos largos son comunes. Sin embargo, los ciclos menstruales tienden a acortarse y a volverse más regulares a medida que envejeces. Tu ciclo menstrual puede ser regular (más o menos la misma duración cada mes) o algo irregular, y tu período puede ser ligero o pesado, doloroso o indoloro, largo o corto, y aun así ser considerado normal. 
 

@@ -2,6 +2,8 @@
 [![Video Motivacional](https://www.youtube.com/watch?v=5RswOZHkvKs&feature=youtu.be)](https://youtu.be/5RswOZHkvKs)
 
 [Haga click para dirigirse a la clase.](https://classroom.google.com/c/MjAwNjk0MTI3ODQz?cjc=3htnato)
+[Haga click para dirigirse a la plataforma.](https://luisstuy.github.io/Salud-sexual-y-reproductiva/.)
+
 
 
 Proceso ligado al desarrollo humano; es decir, comienza desde el nacimiento y se desarrolla durante toda la vida; que permite a una persona relacionarse, sentir y expresar afecto, formar pareja, experimentar placer y ejercer libremente su identidad sexual; contempla dimensiones comunicativas, afectivas, placenteras y reproductivas que se reflejan en sus conocimientos, actitudes y prácticas frente a las diferentes experiencias de la vida.
@@ -34,6 +36,7 @@ Se refiere a la enseñanza que dura toda la vida, desde el nacimiento y debería
 **El derecho al cuidado de la salud sexual.** 
 **El cuidado de la salud sexual debe estar disponible para la prevención y el tratamiento de todos los problemas, preocupaciones y desórdenes sexuales.
 ![alt text](Anticoncepcin10.png)
+
 ## Período Menstrual
 ![alt text](utero.jpeg)
 
@@ -75,6 +78,7 @@ Si una mujer está amamantando y su bebé tiene más de 6 meses, (la lactancia m
 #### Condones masculino y femenino
 Un condón es una envoltura delgada que se coloca en el pene y en el caso del condón femenino, se coloca en la vagina antes de la relación sexual. El semen se acumula dentro del condón, el cual debe permanecer cuidadosamente en su lugar y ser retirado después de la cópula.
 Los condones de látex ayudan a prevenir el VIH y otras ETS. Los condones de poliuretano pueden brindar algo de protección contra las enfermedades de transmisión sexual, pero no son tan efectivos como los de látex. Los riesgos abarcan irritación y reacciones alérgicas, particularmente al látex. Los condones se usan sólo una vez.
+
 ![alt text](01open.jpg)
 ![alt text](02erect.jpg)
 ![alt text](03pinch.jpg)
@@ -87,15 +91,23 @@ Los condones de látex ayudan a prevenir el VIH y otras ETS. Los condones de pol
 ![alt text](woman4.jpg)
 ![alt text](woman5.jpg)
 ![alt text](woman6.jpg)
+
+[Haga click para dirigirse al poster1.](https://drive.google.com/file/d/1Kh7eB5LVOL8-2MXL0LIyL3xjOI8Zbbgh/view?usp=sharing)
+
+[Haga click para dirigirse al poster2.](https://drive.google.com/file/d/1Eh3WN92QAZdkGW93OF6JZXUYPwQDWbbf/view?usp=sharing)
+
 #### Diafragma cervical 
 ![alt text](diafragmacervical.jpg)
+
 El diafragma es un capuchón de látex delgado, con un aro elástico y flexible. Se introduce en la vagina, cubre el cuello uterino y se mantiene en su lugar por medio de los músculos vaginales. El diafragma se utiliza con espermicidas. El espermicida mata los espermatozoides, y así previene la fecundación. Después del coito, debe dejarse colocado entre 6 y 8 horas. La protección que ofrece contra las infecciones de transmisión sexual es limitada, y no protege contra el VIH/SIDA.
 #### Espermicidas 
 El espermicida incapacita o mata los espermatozoides para que no puedan unirse al ovulo. El espermicida tiene muchas formas diferentes: jalea, espuma, crema, óvulos, tabletas vaginales, esponjas, supositorios y películas. La mayoría de ellos contienen el químico nonoxynol-9 y cloruro de benzalconio contra los espermatozoides. Los espermicidas proveen lubricación y se pueden usar con otros métodos anticonceptivos.
+
 ![alt text](Anticoncepcin4.png)
 
 ### Hormonales.
 Son aquellos métodos basados en el uso de hormonas sexuales (estrógenos y/o progestágenos), cuyos objetivos finales son impedir que se desarrolle la ovulación en la mujer, y generar condiciones adversas en la vagina, cervix y endometrio que impidan que se llegue a realizar la fecundación.
+
 ![alt text](pildora.jpg)
 
 #### Anticonceptivos orales combinados .
@@ -117,6 +129,7 @@ Consiste en la aplicación vaginal, una vez por mes, de un anillo liberador de h
 
 ### Dispositivos Intrauterinos.
 ![alt text](DIU.jpg)
+
 Es un método anticonceptivo, que se basa en la colocación dentro de la cavidad uterina de un elemento que con efecto mecánico, químico, u hormonal, impide que los espermatozoides lleguen a fecundar los óvulos, ya que son inmovilizados, o destruidos para que no cumplan su función. Se diferencian de los métodos de barrera porque los DIU actúan a nivel de cavidad uterina, mientras que los de barrera lo hacen a nivel vaginal.
 #### T de Cobre.
 ![alt text](Tdecobre.jpeg)
@@ -130,9 +143,11 @@ Es un dispositivo en forma de T, como el anterior que libera progesterona. Se ca
 Son métodos que consisten en el bloqueo quirúrgico de los conductos que sacan a las células de la fecundación de su almacenamiento (espermatozoides u óvulos)
 #### Ligadura de Trompas
 ![alt text](ligadura.jpg)
+
 En la mujer se bloquean las trompas de Falopio, impidiendo que el óvulo sea liberado a la cavidad uterina, así este no podrá encontrarse con el espermatozoide. Se le conoce también como "Ligadura de trompas". No se recomienda en mujeres menores de 30 años ni en mujeres inseguras de haber completado el número de hijos deseados. Puede producir rara vez dolor pélvico crónico.
 #### Vasectomía 
 ![alt text](vasectomia.jpg)
+
 En el varón se bloquean los conductos deferentes, que impiden que los espermatozoides salgan al exterior del pene. Es necesario cuidarse con otro método durante las primeras 20 relaciones sexuales, pues pueden haber quedado espermatozoides por debajo del lugar de bloqueo que pueden provocar un embarazo no deseado. No se recomienda en hombres inseguros de haber completado el número de hijos deseados
 
 ### Anticoncepción de urgencia.
@@ -144,6 +159,7 @@ El tipo de método para el control de la natalidad que usted escoge depende de s
 ## Enfermedades de transmisión sexual.
 
 Las enfermedades de transmisión sexual afectan cada día a más de 1 millón de personas, la incidencia de personas cada vez más jóvenes que se contagian por falta de información es un hecho preocupante y de interés para la salud pública. Existen diferentes métodos de prevención dependiente de sus diferentes vías de transmisión y los métodos de barrera, son los más efectivos de los cuales es cada vez menos frecuente su uso frente a métodos hormonales, utilizando un método anticonceptivo con la única finalidad de evitar un embarazo, dejando de lado la importancia de prevenir las diferentes ETS. 
+
 ![alt text](Anticoncepcin2.png)
 
 A pesar de que los adolescentes representen el 25% de la población sexualmente activa, son los más afectados por las ETS, ya que representan casi el 50% de todos los casos de ETS adquiridas recientemente. El consumo de alcohol y otras drogas, la promiscuidad y el uso inapropiado del preservativo entre otras hace que sean más susceptibles. 
